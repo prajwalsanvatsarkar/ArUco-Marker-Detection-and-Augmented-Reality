@@ -5,7 +5,7 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Configuration](#Configuration)
-- [CodeExplaination](#Code Explaination)
+- [Code Explaination](#CodeExplaination)
 - [Examples](#Examples)
 - [Contributing](#Contributing)
 - [License](#License)
