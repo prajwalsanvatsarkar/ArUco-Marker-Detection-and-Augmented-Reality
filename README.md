@@ -90,12 +90,6 @@ image_shower(final_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
-
-
-
-
-
 ## **Contributing**
 We welcome contributions! Please follow these steps:
 
