@@ -43,11 +43,11 @@ Replace `"path_to_overlay_image"` and `"path_to_image"` in the script with the a
 ```bash
 python script_name.py
 
-### Configuration
+## Configuration
 image2 = cv2.imread("path_to_overlay_image", cv2.IMREAD_UNCHANGED)
 scale_percent = 30
 
-### Contributing
+## Contributing
 We welcome contributions! Please follow these steps:
 
 Fork the repository.
@@ -60,10 +60,10 @@ git commit -m 'Add feature'
 Push to the branch
 git push origin feature-name
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Contact
+## Contact
 For questions or support, please contact Prajwal Sanvatsarkar at [sanvatsarkar.prajwal@gmail.com]
 
 Replace placeholders such as `"path_to_overlay_image"`, `"path_to_image"`, `"script_name.py"`, `"yourusername"`, and `"your.email@example.com"` with your actual details. This comprehensive README provides clear instructions and explanations for users and contributors.
