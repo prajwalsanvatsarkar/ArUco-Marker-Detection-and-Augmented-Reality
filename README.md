@@ -113,10 +113,15 @@ Push to the branch
 git push origin feature-name
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the ```LICENSE ```file for details.
 
 ## Contact
 For questions or support, please contact Prajwal Sanvatsarkar at [sanvatsarkar.prajwal@gmail.com]
+```bash
+
+Each section in the table of contents now links directly to its corresponding heading in the document. Let me know if this meets your requirements!
+
+```
 
 
 
